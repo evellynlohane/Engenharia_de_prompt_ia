@@ -1,1 +1,1 @@
-Conectado com sucesso!
+Git sincronizado com VS Code com sucesso!
