@@ -1,1 +1,1 @@
-Git sincronizado com VS Code com sucesso!
+Git e VS Code sincronizados com sucesso!
